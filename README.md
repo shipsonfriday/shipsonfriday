@@ -1,6 +1,4 @@
 <h1 align="center">Hi, I'm Roland 👋</h1>
-<p align="center">Physicist turned software engineer.</p>
-
 <p align="center">
   <a href="https://linktr.ee/rolandbraun" target="_blank">
     <img src="https://img.shields.io/badge/Links-1de9b6?style=for-the-badge&logo=linktree&logoColor=white">
