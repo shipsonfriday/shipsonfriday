@@ -1,12 +1,9 @@
-<h1 align="center">Hi there 🙋‍♂️, I'm Roland</h1>
-<h3 align="center">Physicist turned Software Engineer | Building thoughtful software with purpose</h3>
+<h1 align="center">Hi, I'm Roland 👋</h1>
+<p align="center">Physicist turned software engineer.</p>
 
 <p align="center">
   <a href="https://linktr.ee/rolandbraun" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white">
-  </a>
-  <a href="https://github.com/rbVegas" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Links-1de9b6?style=for-the-badge&logo=linktree&logoColor=white">
   </a>
   <a href="https://www.nuget.org/profiles/rolandbraun" target="_blank">
     <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white">
@@ -18,22 +15,29 @@
 
 ---
 
-### 👨‍💻 About Me
+### About
 
-- 🧪 Once a physicist, now a full-time software engineer
-- 🔭 Creator of `SVMT`, a user-friendly MCMC sampler for astrophysics research
-- 🌐 Currently building modern apps with **ASP.NET Core Web API** & **Angular**
-- 🌱 Learning new patterns in **architecture**
-- 🤝 Always open to collaborations that challenge us to grow
-- 📬 Reach me anytime: **hi@roland.ms**
+I studied physics, where the models are elegant and the data is messy. Then I switched to software, where it's the other way round.
 
----
+My first serious code was `SVMT`, an MCMC sampler for astrophysics – basically throwing random numbers at the sky until the universe gives up its parameters. Today I'm a dev lead at Tesla Automation, mostly in C#, ASP.NET Core and Angular.
 
-### ⚡ Tech Highlights
+### The repos below
 
-- 💻 Languages: C#, TypeScript, SQL, Python
-- 🧠 Interests: Clean architecture, performance tuning, developer experience (DX)
-- 📦 Contributions on [NuGet](https://www.nuget.org/profiles/rolandbraun)
-- 🛠 Favorite tools: Rider, Webstorm, SSMS, Git
+Early projects. They still compile. Please don't read the commit messages.
 
----
+- **StatiCSharp** – a static site generator for C# developers, because the world clearly needed one more
+- **FoundationTheme** – its default theme, so it doesn't look like 1998
+- **IfKThenX** – a logic layer for KNX, so my house does what I mean instead of what I configured
+
+### Stack
+
+C# · TypeScript · SQL · Python (for when physics comes back to haunt me)
+
+### FAQ
+
+**Do you really ship on Friday?**
+Only if the tests are green, it's before noon, and someone else is on call.
+
+### Contact
+
+hi@roland.ms
